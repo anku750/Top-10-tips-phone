@@ -52,11 +52,11 @@
       display: flex;
       gap: 15px;
       padding: 15px;
-      height: 50vh;
+      height: 90vh;
     }
 
     .tips-list {
-      width: 50%;
+      width: 100%;
       background: rgba(255, 255, 255, 0.15);
       border-radius: 12px;
       overflow-y: scroll;
@@ -68,7 +68,7 @@
     }
 
     .tip-btn {
-      width: 50%;
+      width: 100%;
       padding: 12px;
       margin-bottom: 10px;
       background: #ffffffaa;
@@ -85,7 +85,7 @@
     }
 
     .content-box {
-      width: 50%;
+      width: 100%;
       background: #ffffffdd;
       color: #000;
       padding: 10px;
