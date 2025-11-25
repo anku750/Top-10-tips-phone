@@ -56,7 +56,7 @@
     }
 
     .tips-list {
-      width: 100%;
+      width: 50%;
       background: rgba(255, 255, 255, 0.15);
       border-radius: 12px;
       overflow-y: scroll;
@@ -68,7 +68,7 @@
     }
 
     .tip-btn {
-      width: 100%;
+      width: 70%;
       padding: 12px;
       margin-bottom: 10px;
       background: #ffffffaa;
@@ -85,7 +85,7 @@
     }
 
     .content-box {
-      width: 100%;
+      width: 40%;
       background: #ffffffdd;
       color: #000;
       padding: 10px;
