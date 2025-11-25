@@ -56,7 +56,7 @@
     }
 
     .tips-list {
-      width: 50%;
+      width: 30%;
       background: rgba(255, 255, 255, 0.15);
       border-radius: 12px;
       overflow-y: scroll;
