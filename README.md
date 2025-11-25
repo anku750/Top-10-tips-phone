@@ -60,7 +60,7 @@
       background: rgba(255, 255, 255, 0.15);
       border-radius: 12px;
       overflow-y: scroll;
-      padding: 10px;
+      padding: 100px;
     }
 
     .tips-list::-webkit-scrollbar {
