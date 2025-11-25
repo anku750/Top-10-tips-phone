@@ -1,5 +1,5 @@
 
-<!DOCTYPE html>
+
 <html lang="hi">
 <head>
   <meta charset="UTF-8" />
@@ -37,7 +37,7 @@
       margin: 0;
       padding: 0;
       font-family: Arial, sans-serif;
-      background: linear-gradient(135deg, #00aaff, #0055ff);
+      background: linear-gradient(135deg, #00000f, #0055ff);
       color: #fff;
     }
 
@@ -52,11 +52,11 @@
       display: flex;
       gap: 15px;
       padding: 15px;
-      height: 90vh;
+      height: 50vh;
     }
 
     .tips-list {
-      width: 35%;
+      width: 20%;
       background: rgba(255, 255, 255, 0.15);
       border-radius: 12px;
       overflow-y: scroll;
@@ -68,7 +68,7 @@
     }
 
     .tip-btn {
-      width: 50%;
+      width: 20%;
       padding: 12px;
       margin-bottom: 10px;
       background: #ffffffaa;
@@ -85,10 +85,10 @@
     }
 
     .content-box {
-      width: 30%;
+      width: 10%;
       background: #ffffffdd;
       color: #000;
-      padding: 20px;
+      padding: 10px;
       border-radius: 12px;
       overflow-y: auto;
     }
