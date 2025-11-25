@@ -64,11 +64,11 @@
     }
 
     .tips-list::-webkit-scrollbar {
-      width: 6px;
+      width: 10px;
     }
 
     .tip-btn {
-      width: 60%;
+      width: 100%;
       padding: 12px;
       margin-bottom: 10px;
       background: #ffffffaa;
@@ -85,7 +85,7 @@
     }
 
     .content-box {
-      width: 15%;
+      width: 20%;
       background: #ffffffdd;
       color: #000;
       padding: 10px;
