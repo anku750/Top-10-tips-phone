@@ -52,7 +52,7 @@
       display: flex;
       gap: 15px;
       padding: 15px;
-      height: 10vh;
+      height: 90vh;
     }
 
     .tips-list {
