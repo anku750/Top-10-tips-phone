@@ -68,7 +68,7 @@
     }
 
     .tip-btn {
-      width: 100%;
+      width: 50%;
       padding: 12px;
       margin-bottom: 10px;
       background: #ffffffaa;
@@ -85,7 +85,7 @@
     }
 
     .content-box {
-      width: 65%;
+      width: 30%;
       background: #ffffffdd;
       color: #000;
       padding: 20px;
