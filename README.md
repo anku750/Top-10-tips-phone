@@ -56,7 +56,7 @@
     }
 
     .tips-list {
-      width: 30%;
+      width: 8%;
       background: rgba(255, 255, 255, 0.15);
       border-radius: 12px;
       overflow-y: scroll;
@@ -85,7 +85,7 @@
     }
 
     .content-box {
-      width: 40%;
+      width: 20%;
       background: #ffffffdd;
       color: #000;
       padding: 10px;
