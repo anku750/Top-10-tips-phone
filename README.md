@@ -56,7 +56,7 @@
     }
 
     .tips-list {
-      width: 100%;
+      width: 10%;
       background: rgba(255, 255, 255, 0.15);
       border-radius: 12px;
       overflow-y: scroll;
@@ -64,7 +64,7 @@
     }
 
     .tips-list::-webkit-scrollbar {
-      width: 50px;
+      width: 30px;
     }
 
     .tip-btn {
