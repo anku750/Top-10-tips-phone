@@ -52,7 +52,7 @@
       display: flex;
       gap: 15px;
       padding: 15px;
-      height: 200vh;
+      height: 90vh;
     }
 
     .tips-list {
@@ -68,7 +68,7 @@
     }
 
     .tip-btn {
-      width: 100%;
+      width: 1000%;
       padding: 12px;
       margin-bottom: 10px;
       background: #ffffffaa;
