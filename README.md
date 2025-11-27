@@ -60,15 +60,15 @@
       background: rgba(255, 255, 255, 0.15);
       border-radius: 12px;
       overflow-y: scroll;
-      padding: 100px;
+      padding: 50px;
     }
 
     .tips-list::-webkit-scrollbar {
-      width: 100px;
+      width: 50px;
     }
 
     .tip-btn {
-      width: 1000%;
+      width: 100%;
       padding: 12px;
       margin-bottom: 10px;
       background: #ffffffaa;
