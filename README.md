@@ -52,19 +52,19 @@
       display: flex;
       gap: 15px;
       padding: 15px;
-      height: 90vh;
+      height: 50vh;
     }
 
     .tips-list {
-      width: 10%;
+      width: 8%;
       background: rgba(255, 255, 255, 0.15);
       border-radius: 12px;
       overflow-y: scroll;
-      padding: 50px;
+      padding: 20px;
     }
 
     .tips-list::-webkit-scrollbar {
-      width: 30px;
+      width: 20px;
     }
 
     .tip-btn {
